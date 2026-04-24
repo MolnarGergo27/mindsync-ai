@@ -75,9 +75,4 @@ Projekt struktúra:
 ![MindSync AI Főoldal](default.png)
 ![Működése](processing.png)
 
-Jövőbeli fejlesztések:
-- Web Search integráció: Ha a dokumentum nem tartalmazza a választ, a rendszer az interneten keres tovább
-- Multimodalitás: Képek és grafikonok értelmezése a dokumentumokon belül Llama 3.2 Vision segítségével
-
-
 Készítette: Molnár Gergő - https://www.linkedin.com/in/gerg%C5%91-moln%C3%A1r-3920b53a7/
