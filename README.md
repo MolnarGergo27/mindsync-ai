@@ -75,7 +75,7 @@ Project Structure:
 ├── docker-compose.yml  # Multi-container setup
 └── requirements.txt    # Project Dependencies
 
-![MindSync AI Főoldal](default.png)
-![Működése](processing.png)
+![MindSync AI Main Page](default.png)
+![Operation](processing.png)
 
 Created by: Molnár Gergő - https://www.linkedin.com/in/gerg%C5%91-moln%C3%A1r-3920b53a7/
